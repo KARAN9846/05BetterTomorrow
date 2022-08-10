@@ -36,7 +36,7 @@ This Project Taught Me How To Adjust Background Image Respected to Content.
 ## Screenshot 
 
 
-[Live Link](https://dancing-nougat-0cde59.netlify.app/)
+[Live Link](https://darling-speculoos-68f005.netlify.app/)
 
 ![What's Trend In](./Capture.PNG)
 
